@@ -15,7 +15,7 @@ These cheats were taken thanks to **gameconqueror**. the following games are ava
 
 # Note
 
-To be more effective these cheats, you have to disable aslr in linux. You can do that by running as root the following command:
+To make these cheats works, you have to disable aslr in linux. You can do that by running as root the following command:
 
 ```
 
@@ -53,12 +53,19 @@ bash disable_aslr.sh
 
 ```
 
+If you reboot the system, you have to run again **disable_aslr.sh**.
+
 # How to use these cheats
 
 Since there's not a trainer yet you have to load the list of cheats manually in gameconqueror.
 * Open gameconqueror
 * Click on the green arrow icon
 * Go to the folder where you have cloned this repository
+* Attach the process of the game you are playing (the game must be running with its values so no main menu screen but you have to go directly on the game session)
+* Press CTRL + R
+* To the datatype search for type number and insert a random number that is different than zero
+* Press CTRL + Enter
+* Wait for gameconqueror to load the address list
 * Go to the folder of the game you're playing at the moment
 * Open the the file usually called as gamename_cheats
 * During your gameplay you will see some variables changing value inside gameconqueror's table, edit the row you want to change inside the table and then continue to play
