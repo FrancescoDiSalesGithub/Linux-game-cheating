@@ -13,6 +13,7 @@ These cheats were taken thanks to **gameconqueror**. the following games are ava
 
 * HellTaker
 * DOOM (1993) Steam version
+* Supertux
 
 # Note
 
