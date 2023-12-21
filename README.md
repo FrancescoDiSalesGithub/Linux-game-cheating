@@ -12,6 +12,7 @@ Games that have been hacked at runtime on Linux and have some cool cheats
 These cheats were taken thanks to **gameconqueror**. the following games are available in this cheat repository:
 
 * HellTaker
+* DOOM (1993) Steam version
 
 # Note
 
