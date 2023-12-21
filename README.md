@@ -31,6 +31,28 @@ echo 2 > /proc/sys/kernel/randomize_va_space
 
 ```
 
+If you don't want to do this manually, there are two scripts:
+
+* enable_aslr.sh
+* disable_aslr.sh
+
+**enable_aslr.sh** enables the aslr in your linux system. To run the script, you must be first root user then run the script as the following:
+
+```
+
+bash enable_aslr.sh
+
+
+```
+
+**disable_aslr.sh** disables the aslr in your linux system. To run the script, you must be first root user then run the script as the following:
+
+```
+
+bash disable_aslr.sh
+
+```
+
 # How to use these cheats
 
 Since there's not a trainer yet you have to load the list of cheats manually in gameconqueror.
@@ -40,8 +62,6 @@ Since there's not a trainer yet you have to load the list of cheats manually in 
 * Go to the folder of the game you're playing at the moment
 * Open the the file usually called as gamename_cheats
 * During your gameplay you will see some variables changing value inside gameconqueror's table, edit the row you want to change inside the table and then continue to play
-
-
 
 
 # Donation
